@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
+  m_Name: Tentacle1
+  m_EditorClassIdentifier: 
+  title: Tentacle 1
+  message: Welcome to the tentacle world!
+  active: 0
+  nextNode: {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: d9d200332eb2e914ab1a534ca9cb2e00, type: 2}
+    message: Oh no, forest is down!

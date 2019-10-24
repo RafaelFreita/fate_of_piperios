@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c06bf96933f8564b9e33bc452e3ca9a, type: 3}
+  m_Name: ExpansionismPath
+  m_EditorClassIdentifier: 
+  nodes:
+  - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
+  - {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
+  - {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
