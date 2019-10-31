@@ -14,9 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Tentacle 1
   message: Welcome to the tentacle world!
-  active: 0
+  isActive: 1
+  isFinal: 0
   nextNode: {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
-  interactions:
-  - nodes:
-    - {fileID: 11400000, guid: d9d200332eb2e914ab1a534ca9cb2e00, type: 2}
-    message: Oh no, forest is down!
+  interactions: []
+  endRule: {fileID: 0}
