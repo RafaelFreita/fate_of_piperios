@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
 
+using UnityEngine.SceneManagement;
+
 public class Artifact : MonoBehaviour
 {
 
@@ -33,6 +35,7 @@ public class Artifact : MonoBehaviour
             if (node.endRule.Check()) // Mundo acabou
             {
                 textLog.text = node.endRule.triggeredMessage;
+                StartCoroutine(RestartSceneAsync());
             }
             else                      // Mundo não acabou
             {
@@ -46,6 +49,12 @@ public class Artifact : MonoBehaviour
         else
             Debug.Log("Didn't find next node!! Title: " + node.title);
 
+    }
+
+    IEnumerator RestartSceneAsync()
+    {
+        yield return new WaitForSeconds(3);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     private void OnMouseDown()

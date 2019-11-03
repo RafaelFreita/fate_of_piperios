@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
+  m_Name: TentaclesEndRule
+  m_EditorClassIdentifier: 
+  triggeredMessage: THE TENTACLES TAKE OVER THE WORLD!
+  untriggeredMessage: The tentacles were destroyed by SCIENCE!
+  activeNodes: []
+  unactiveNodes:
+  - {fileID: 11400000, guid: 965806ae837555e47a277be520635e1a, type: 2}

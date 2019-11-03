@@ -18,4 +18,4 @@ MonoBehaviour:
   isFinal: 1
   nextNode: {fileID: 0}
   interactions: []
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 9020c27e88d79c046bf66e4e5a524398, type: 2}
