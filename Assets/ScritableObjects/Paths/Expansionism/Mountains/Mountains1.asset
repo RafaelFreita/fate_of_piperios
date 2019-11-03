@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Mountains1
   m_EditorClassIdentifier: 
   title: Mountains 1
-  message: 
+  message: Mountains 1 message
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}

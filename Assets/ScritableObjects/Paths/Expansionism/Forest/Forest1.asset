@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Forest1
   m_EditorClassIdentifier: 
   title: Forest 1
-  message: 
-  active: 0
+  message: Forest 1 message
+  isActive: 0
+  isFinal: 0
   nextNode: {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}
   interactions: []
+  endRule: {fileID: 0}

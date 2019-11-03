@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Mountains2
   m_EditorClassIdentifier: 
   title: Mountains 2
-  message: 
+  message: Mountains 2 message
   isActive: 0
   isFinal: 0
-  nextNode: {fileID: 0}
+  nextNode: {fileID: 11400000, guid: 801d5e7af59075241b84131dea1265d0, type: 2}
   interactions: []
   endRule: {fileID: 0}

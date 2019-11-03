@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: TentacleFinal
   m_EditorClassIdentifier: 
   title: Tentacle Final
-  message: Claudio ataca o mundo com seus tentaculos!!!
-  isActive: 1
+  message: Claudio attacks the world with its tentacles!!!
+  isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}
   interactions: []

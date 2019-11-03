@@ -337,6 +337,7 @@ GameObject:
   - component: {fileID: 249682602}
   - component: {fileID: 249682601}
   - component: {fileID: 249682600}
+  - component: {fileID: 249682603}
   m_Layer: 0
   m_Name: R-Oracle
   m_TagString: Untagged
@@ -416,6 +417,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 249682598}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &249682603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 249682598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
 --- !u!1 &653260035
 GameObject:
   m_ObjectHideFlags: 0
@@ -476,6 +490,7 @@ GameObject:
   - component: {fileID: 690762351}
   - component: {fileID: 690762350}
   - component: {fileID: 690762349}
+  - component: {fileID: 690762352}
   m_Layer: 0
   m_Name: S-Physics
   m_TagString: Untagged
@@ -555,6 +570,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 690762347}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &690762352
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 690762347}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
 --- !u!1 &762685388
 GameObject:
   m_ObjectHideFlags: 0
@@ -633,6 +661,7 @@ GameObject:
   - component: {fileID: 862598423}
   - component: {fileID: 862598422}
   - component: {fileID: 862598421}
+  - component: {fileID: 862598424}
   m_Layer: 0
   m_Name: E-Mountains
   m_TagString: Untagged
@@ -712,6 +741,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 862598419}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &862598424
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 862598419}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
 --- !u!1 &953942979
 GameObject:
   m_ObjectHideFlags: 0
@@ -724,6 +766,7 @@ GameObject:
   - component: {fileID: 953942983}
   - component: {fileID: 953942982}
   - component: {fileID: 953942981}
+  - component: {fileID: 953942984}
   m_Layer: 0
   m_Name: S-Space
   m_TagString: Untagged
@@ -803,6 +846,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 953942979}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &953942984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 953942979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
 --- !u!1 &1023872748
 GameObject:
   m_ObjectHideFlags: 0
@@ -815,6 +871,7 @@ GameObject:
   - component: {fileID: 1023872752}
   - component: {fileID: 1023872751}
   - component: {fileID: 1023872750}
+  - component: {fileID: 1023872753}
   m_Layer: 0
   m_Name: E-Islands
   m_TagString: Untagged
@@ -894,6 +951,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1023872748}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1023872753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1023872748}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
 --- !u!1 &1187109763
 GameObject:
   m_ObjectHideFlags: 0
@@ -936,6 +1006,7 @@ GameObject:
   - component: {fileID: 1272279646}
   - component: {fileID: 1272279645}
   - component: {fileID: 1272279644}
+  - component: {fileID: 1272279647}
   m_Layer: 0
   m_Name: E-Forest
   m_TagString: Untagged
@@ -1015,6 +1086,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1272279642}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1272279647
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1272279642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
 --- !u!1 &1402277191
 GameObject:
   m_ObjectHideFlags: 0
@@ -1031,7 +1115,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1402277192
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1259,7 +1343,6 @@ GameObject:
   - component: {fileID: 1687258584}
   - component: {fileID: 1687258582}
   - component: {fileID: 1687258586}
-  - component: {fileID: 1687258583}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1275,46 +1358,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1687258581}
   m_Enabled: 1
---- !u!114 &1687258583
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1687258581}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be76e5f14cfee674cb30b491fb72b09b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  boost: 3.5
-  positionLerpTime: 0.2
-  mouseSensitivityCurve:
-    serializedVersion: 2
-    m_Curve:
-    - serializedVersion: 3
-      time: 0
-      value: 0.5
-      inSlope: 0
-      outSlope: 5
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    - serializedVersion: 3
-      time: 1
-      value: 2.5
-      inSlope: 0
-      outSlope: 0
-      tangentMode: 0
-      weightedMode: 0
-      inWeight: 0
-      outWeight: 0
-    m_PreInfinity: 2
-    m_PostInfinity: 2
-    m_RotationOrder: 4
-  rotationLerpTime: 0.01
-  invertY: 0
 --- !u!20 &1687258584
 Camera:
   m_ObjectHideFlags: 0
@@ -1444,6 +1487,7 @@ GameObject:
   - component: {fileID: 1691024849}
   - component: {fileID: 1691024848}
   - component: {fileID: 1691024847}
+  - component: {fileID: 1691024850}
   m_Layer: 0
   m_Name: R-Sun
   m_TagString: Untagged
@@ -1523,6 +1567,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1691024845}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1691024850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1691024845}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
 --- !u!1 &1699336944
 GameObject:
   m_ObjectHideFlags: 0
@@ -1535,8 +1592,9 @@ GameObject:
   - component: {fileID: 1699336948}
   - component: {fileID: 1699336947}
   - component: {fileID: 1699336946}
+  - component: {fileID: 1699336949}
   m_Layer: 0
-  m_Name: Sample Sphere
+  m_Name: Planet
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1623,6 +1681,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1699336944}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1699336949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1699336944}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb9a7045f3b748d41abd1f3c712cbe47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 100
 --- !u!1 &1867755740
 GameObject:
   m_ObjectHideFlags: 0
@@ -1635,6 +1706,7 @@ GameObject:
   - component: {fileID: 1867755744}
   - component: {fileID: 1867755743}
   - component: {fileID: 1867755742}
+  - component: {fileID: 1867755745}
   m_Layer: 0
   m_Name: S-Chemistry
   m_TagString: Untagged
@@ -1714,6 +1786,19 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1867755740}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1867755745
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867755740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80db23a9939453f4ea71cb3f9ca0f12a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 16a5973c8f7850444b62f514c64cca18, type: 2}
 --- !u!1 &2138677391
 GameObject:
   m_ObjectHideFlags: 0

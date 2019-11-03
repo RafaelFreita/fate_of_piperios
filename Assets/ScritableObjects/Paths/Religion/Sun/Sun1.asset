@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Sun1
   m_EditorClassIdentifier: 
   title: Sun 1
-  message: 
-  active: 0
+  message: SUn message 1
+  isActive: 0
+  isFinal: 0
   nextNode: {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
   interactions: []
+  endRule: {fileID: 0}

@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Islands1
   m_EditorClassIdentifier: 
   title: Islands 1
-  message: 
-  active: 0
+  message: Islands 1 message
+  isActive: 0
+  isFinal: 0
   nextNode: {fileID: 11400000, guid: 4feea4b8a1133884d8f85f2c51eed5c7, type: 2}
   interactions: []
+  endRule: {fileID: 0}

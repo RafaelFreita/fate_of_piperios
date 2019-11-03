@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
-  m_Name: Physics2
+  m_Name: ChemistryFinal
   m_EditorClassIdentifier: 
-  title: Physics 2
-  message: Physics 2 message
+  title: Chemistry Final
+  message: Chemistry Final message
   isActive: 0
-  isFinal: 0
-  nextNode: {fileID: 11400000, guid: 8fa8d5c599ac14d4282daedaefc7447e, type: 2}
+  isFinal: 1
+  nextNode: {fileID: 0}
   interactions: []
   endRule: {fileID: 0}

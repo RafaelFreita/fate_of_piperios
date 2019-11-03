@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Physics1
   m_EditorClassIdentifier: 
   title: Physics 1
-  message: 
-  active: 0
+  message: Physics 1 message
+  isActive: 0
+  isFinal: 0
   nextNode: {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
   interactions: []
+  endRule: {fileID: 0}

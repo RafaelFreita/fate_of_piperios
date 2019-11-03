@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Space2
   m_EditorClassIdentifier: 
   title: Space 2
-  message: 
-  active: 0
-  nextNode: {fileID: 0}
+  message: Space 2 message
+  isActive: 0
+  isFinal: 0
+  nextNode: {fileID: 11400000, guid: 098a34c3d82dd2e4ba5067122c617f65, type: 2}
   interactions: []
+  endRule: {fileID: 0}

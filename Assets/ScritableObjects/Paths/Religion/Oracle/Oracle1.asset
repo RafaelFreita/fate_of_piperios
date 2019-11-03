@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Oracle1
   m_EditorClassIdentifier: 
   title: Oracle 1
-  message: 
-  active: 0
+  message: Oracle 1 message
+  isActive: 0
+  isFinal: 0
   nextNode: {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
   interactions: []
+  endRule: {fileID: 0}

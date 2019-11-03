@@ -18,8 +18,8 @@ public class Artifact : MonoBehaviour
 
     private void Activate()
     {
-        // Não ser clicável caso o mundo não acabe nesse path
-        if (!activatable) return;
+        // Não ser clicável caso já tenha passado por esse nodo
+        if (node.isActive) return;
 
         // Ativa o nodo
         node.isActive = true;
@@ -37,7 +37,6 @@ public class Artifact : MonoBehaviour
             else                      // Mundo não acabou
             {
                 textLog.text = node.endRule.untriggeredMessage;
-                activatable = false;
             }
         }
 
@@ -45,7 +44,7 @@ public class Artifact : MonoBehaviour
         if (node.nextNode)
             node = node.nextNode;
         else
-            Debug.LogError("Didn't find next node!! Title: " + node.title);
+            Debug.Log("Didn't find next node!! Title: " + node.title);
 
     }
 

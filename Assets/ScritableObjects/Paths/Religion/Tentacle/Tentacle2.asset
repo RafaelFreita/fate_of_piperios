@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   title: Tentacle 2
   message: More tentacles!!
-  isActive: 1
+  isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 07389982d74cd7b4b87ee0daf1e8a8e4, type: 2}
   interactions: []
