@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Forest2
   m_EditorClassIdentifier: 
   title: Forest 2
-  message: Forest 2 message
+  message: "Com a destrui\xE7\xE3o da fauna e flora pelo bem do avan\xE7o da humanidade
+    o planeta come\xE7a a mostrar sinais de um aquecimento descontrolado. O ar passa
+    a n\xE3o ser mais t\xE3o puro como costumava ser e doen\xE7as relacionadas a sua
+    quantidade passam a perpetuar. "
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 87c8a4ae93545334a9b17623ac48436e, type: 2}

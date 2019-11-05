@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: PhysicsFinal
   m_EditorClassIdentifier: 
   title: Physics Final
-  message: Physics Final message
+  message: "O maior experimento teve seu in\xEDcio e fim prematuro onde os estudiosos
+    tentaram recriar um de seus objetos de pesquisa chamado buraco negro em um de
+    seus laborat\xF3rios o que resultou em uma cat\xE1strofe catacl\xEDsmica e o mundo
+    foi implodido."
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}

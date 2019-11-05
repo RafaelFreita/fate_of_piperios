@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Oracle2
   m_EditorClassIdentifier: 
   title: Oracle 2
-  message: Oracle 2 message
+  message: Agora as profecias tomam conta da vida das pessoas, elas passam a viver
+    tendo as palavras dos profetas como verdades absolutas e se entregando completamente
+    a ideologia dos profetas.
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 5ef0961a4f1fb4d4eac65da6282b0f17, type: 2}

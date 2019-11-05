@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Mountains2
   m_EditorClassIdentifier: 
   title: Mountains 2
-  message: Mountains 2 message
+  message: "Doen\xE7as e mortes se espalham enquanto as pessoas nos topos das montanhas
+    ignoram o mal que fazem as outras defendendo apenas seu estilo de vida e sociedade
+    ignorando o restante do continente como se apenas eles existissem. "
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 801d5e7af59075241b84131dea1265d0, type: 2}

@@ -13,8 +13,11 @@ MonoBehaviour:
   m_Name: Tentacle1
   m_EditorClassIdentifier: 
   title: Tentacle 1
-  message: Welcome to the tentacle world!
-  isActive: 0
+  message: "Um misterioso e sinistro culto come\xE7a a se espalhar pelo seu mundo.
+    Todos aqueles que fazem parte parecem ter seu comportamento mudado e passam a
+    se comportar como uma manada fazendo as vontades do que os l\xEDderes do culto
+    falam em nome do deus tent\xE1culo. "
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
   interactions: []

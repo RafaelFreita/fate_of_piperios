@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Oracle1
   m_EditorClassIdentifier: 
   title: Oracle 1
-  message: Oracle 1 message
-  isActive: 0
+  message: "Profetizar o futuro por meio da interpreta\xE7\xE3o de enigmas e charadas.
+    os Profetas surgem no mundo representando essa entidade chamada de o Or\xE1culo
+    eles se espalham pelo mundo e come\xE7am a guiar seu povo atrav\xE9s de suas profecias."
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
   interactions: []

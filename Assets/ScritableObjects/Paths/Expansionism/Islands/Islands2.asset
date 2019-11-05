@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Islands2
   m_EditorClassIdentifier: 
   title: Islands 2
-  message: Islands 2 message
+  message: "Em benef\xEDcio do avan\xE7o a explora\xE7\xE3o n\xE3o pode ser parada
+    recursos no mar s\xE3o descobertos e explorados at\xE9 a n\xE3o restar mais nada,
+    res\xEDduos resultantes s\xE3o jogados nas \xE1guas e nas ilhas que j\xE1 n\xE3o
+    possuem mais habitantes."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: d905aea574e36944d8e4cdc84dff33e9, type: 2}

@@ -1228,8 +1228,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 32
-  m_fontSizeBase: 32
+  m_fontSize: 24
+  m_fontSizeBase: 24
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1266,7 +1266,7 @@ MonoBehaviour:
   m_firstVisibleCharacter: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -0.37756348, y: 0, z: 0.22279358, w: -1.8417969}
+  m_margin: {x: -0.37780762, y: 0, z: -149.22264, w: -1.8417969}
   m_textInfo:
     textComponent: {fileID: 1415426482}
     characterCount: 38

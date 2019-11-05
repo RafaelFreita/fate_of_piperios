@@ -13,8 +13,11 @@ MonoBehaviour:
   m_Name: Sun2
   m_EditorClassIdentifier: 
   title: Sun 2
-  message: Sun 2 message
-  isActive: 0
+  message: "Organizando se de forma  militarizada logo os l\xEDderes da f\xE9 da luz
+    passam a julgar quase todos os costumes e cultura diferentes como hereges e discordantes,
+    fazendo sua vontade e levando a justi\xE7a como miss\xE3o divina de erradicar
+    aqueles que n\xE3o seguem sua doutrina. "
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: e05a8b72a56d5c9469dafd1e8ec6e7ec, type: 2}
   interactions: []

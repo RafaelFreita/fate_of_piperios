@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: TentacleFinal
   m_EditorClassIdentifier: 
   title: Tentacle Final
-  message: Claudio attacks the world with its tentacles!!!
+  message: "O deus tent\xE1culo \xE9 finalmente invocado, tent\xE1culos gigantes aparecem
+    pelo espa\xE7o, abra\xE7am o planeta e o consome para sempre. o jogando para o
+    vazio do est\xF4mago do deus tent\xE1culo."
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}

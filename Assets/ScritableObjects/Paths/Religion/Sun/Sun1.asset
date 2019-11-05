@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Sun1
   m_EditorClassIdentifier: 
   title: Sun 1
-  message: SUn message 1
-  isActive: 0
+  message: "A f\xE9 na luz verdadeira passa a guiar as pessoas pregando ideais de
+    justi\xE7a e destrui\xE7\xE3o do mal, rapidamente a comunidade da luz se torna
+    uma for\xE7a a ser respeitada e temida."
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
   interactions: []

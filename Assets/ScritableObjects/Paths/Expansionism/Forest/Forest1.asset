@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Forest1
   m_EditorClassIdentifier: 
   title: Forest 1
-  message: Forest 1 message
+  message: "Pelo aumento da popula\xE7\xE3o as pessoas come\xE7am a se expandir para
+    as florestas e coletar seus recursos cada vez mais descontroladamente. Visando
+    sempre o avan\xE7o da civiliza\xE7\xE3o acima de qualquer coisa. "
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}

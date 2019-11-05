@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: Mountains1
   m_EditorClassIdentifier: 
   title: Mountains 1
-  message: Mountains 1 message
+  message: "As pessoas passam a viver tamb\xE9m no topo das montanhas mais pr\xF3ximas
+    das nascentes de \xE1gua por\xE9m n\xE3o tendo a vis\xE3o do coletivo passam a
+    depositar seus dejetos na \xE1gua e a contaminar causando problemas nas cidades
+    que ficam abaixo das montanhas e dependem das nascentes vindas do topo."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}

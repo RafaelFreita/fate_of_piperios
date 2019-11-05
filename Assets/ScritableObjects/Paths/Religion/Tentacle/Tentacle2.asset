@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Tentacle2
   m_EditorClassIdentifier: 
   title: Tentacle 2
-  message: More tentacles!!
+  message: "Rumores de pessoas desaparecendo e rituais as deixando insanas se espalham
+    rapidamente. Sacrif\xEDcios em nome do Deus tent\xE1culo se tornam cada vez mais
+    comuns espalhando o p\xE2nico e caos pelo mundo."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 07389982d74cd7b4b87ee0daf1e8a8e4, type: 2}

@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: SunFinal
   m_EditorClassIdentifier: 
   title: Sun Final
-  message: Sun final mesage!
+  message: "Descontentes com a corrup\xE7\xE3o e heresia espalhados pelo mundo os
+    seguidores da Luz passaram a purificar o planeta com fogo acabando com a os hereges
+    e com todo o resto. No fim n\xE3o sobrando mais nada al\xE9m de um planeta em
+    brasas."
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}

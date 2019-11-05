@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: Physics1
   m_EditorClassIdentifier: 
   title: Physics 1
-  message: Physics 1 message
-  isActive: 0
+  message: Leis e regras e teorias que contam sobre como o mundo foi criado e sobre
+    como todas as coisas interagem entre si. Entretanto apenas aqueles que estudam
+    isso veem essas coisas que passam despercebidas pelas mentes dos outros.
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
   interactions: []

@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Space1
   m_EditorClassIdentifier: 
   title: Space 1
-  message: Space 1 message
+  message: "O espa\xE7o \xE9 mais um campo a ser estudado e vislumbrando pelos eruditos
+    que buscam a verdade nas estrelas, entretanto alguns passam a acreditar que n\xE3o
+    estamos sozinhos no universo e talvez seja poss\xEDvel encontrar outros por a\xED. "
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 965806ae837555e47a277be520635e1a, type: 2}

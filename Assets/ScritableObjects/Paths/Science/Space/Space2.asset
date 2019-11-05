@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Space2
   m_EditorClassIdentifier: 
   title: Space 2
-  message: Space 2 message
+  message: "Enviando sondas e naves ao espa\xE7o os estudiosos passam a descobrir
+    mais e mais sobre como o universo funciona, come\xE7am a enviar plantas, animais
+    e pessoas ao espa\xE7o por\xE9m eles nunca mais retornam. "
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 098a34c3d82dd2e4ba5067122c617f65, type: 2}

@@ -13,7 +13,9 @@ MonoBehaviour:
   m_Name: Chemistry2
   m_EditorClassIdentifier: 
   title: Chemistry 2
-  message: Chemistry 2 message
+  message: "At\xE9 que os primeiros acidentes acontecem e algumas pessoas que serviram
+    de cobaias t\xEAm suas vidas mudadas ao contra\xEDrem doen\xE7as ou verem seus
+    parentes morrerem por exposi\xE7\xE3o a compostos perigosos e vol\xE1teis."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: e8b2a8c3fa9e3c0439951c461b43db82, type: 2}

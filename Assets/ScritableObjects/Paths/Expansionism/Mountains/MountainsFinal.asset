@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: MountainsFinal
   m_EditorClassIdentifier: 
   title: Mountains Final
-  message: Mountains Final message
+  message: "Passando a n\xE3o ligar nem para si pr\xF3prios as nascentes das montanhas
+    foram polu\xEDdas de forma irrevers\xEDvel acabando com a \xE1gua pot\xE1vel.
+    Por\xE9m nada disso foi informado e as pessoas continuaram a consumir a \xE1gua
+    o que levou a morte e doen\xE7as que n\xE3o estavam preparados para lidar. "
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}
