@@ -13,13 +13,9 @@ MonoBehaviour:
   m_Name: SpaceFinal
   m_EditorClassIdentifier: 
   title: Space Final
-  message: "Os estudiosos descobriram uma forma de se comunicar com outros planetas,
-    obtiveram uma resposta sobre uma visita e precisaria emitir um sinal que guiaria
-    os seres do outro planeta at\xE9 o seu, mas aconteceu de que a mensagem era uma
-    armadilha o outro planeta ataca e sem poder se defender as pessoas do seu mundo
-    s\xE3o escravizadas e seus recursos consumidos."
+  message: 
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}
   interactions: []
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 55bfa8954cd0bf740a00e2a187977a74, type: 2}

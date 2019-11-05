@@ -12,7 +12,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: SunEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: 
-  untriggeredMessage: 
-  activeNodes: []
+  triggeredMessage: "Descontentes com a corrup\xE7\xE3o e heresia espalhados pelo
+    mundo os seguidores da Luz passaram a purificar o planeta com fogo acabando com
+    a os hereges e com todo o resto. No fim n\xE3o sobrando mais nada al\xE9m de um
+    planeta em brasas. "
+  untriggeredMessage: "Descontentes com a corrup\xE7\xE3o e heresia espalhados pelo
+    mundo os seguidores da Luz passaram a purificar o planeta com fogo acabando com
+    a os hereges, entretanto as pessoas distribu\xEDdas pelo planeta s\xE3o um problema
+    e logo uma resist\xEAncia contra a f\xE9 da luz \xE9 formada e uma guerra \xE9
+    travada at\xE9 hoje. "
+  activeNodes:
+  - {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}
+  - {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}
   unactiveNodes: []

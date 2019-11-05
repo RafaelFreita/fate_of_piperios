@@ -12,7 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: ChemistryEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: 
-  untriggeredMessage: 
-  activeNodes: []
+  triggeredMessage: "Os cientistas passaram a estudar novas formas de energia por
+    elementos enriquecidos e acabaram resultando em acidentes nucleares que contaminaram
+    a popula\xE7\xE3o e acabaram com a vida. "
+  untriggeredMessage: "Explos\xF5es nos laborat\xF3rios acontecem por causa do estudo
+    de novas formas de energia matando milhares de pessoas. Os lugares s\xE3o rapidamente
+    isolados e aqueles que longe passam a temer o avan\xE7o sem escr\xFApulos dos
+    cientistas e a cada vez mais aderir a f\xE9 da Luz. "
+  activeNodes:
+  - {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}
+  - {fileID: 11400000, guid: 4feea4b8a1133884d8f85f2c51eed5c7, type: 2}
+  - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
   unactiveNodes: []

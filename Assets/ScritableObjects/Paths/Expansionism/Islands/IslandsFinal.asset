@@ -13,12 +13,9 @@ MonoBehaviour:
   m_Name: IslandsFinal
   m_EditorClassIdentifier: 
   title: Islands Final
-  message: "A explora\xE7\xE3o degenerada do mar fez com que a vida marinha fosse
-    levada a sua quase extin\xE7\xE3o. A polui\xE7\xE3o gerada na \xE1gua fez com
-    que o ar no mundo n\xE3o pudesse ser mais renovado pelas algas o que levou todos
-    a morte. "
+  message: 
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}
   interactions: []
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: f4a21725d03aa7c4e91eede6f2cdac0b, type: 2}

@@ -16,8 +16,12 @@ MonoBehaviour:
   message: Leis e regras e teorias que contam sobre como o mundo foi criado e sobre
     como todas as coisas interagem entre si. Entretanto apenas aqueles que estudam
     isso veem essas coisas que passam despercebidas pelas mentes dos outros.
-  isActive: 1
+  isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
+    message: "Como assim voc\xEAs querem nos dizer como a luz funciona? A luz \xE9
+      a nossa f\xE9 e n\xE3o essa piada cient\xEDfica. "
   endRule: {fileID: 0}

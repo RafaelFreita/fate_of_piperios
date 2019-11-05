@@ -13,11 +13,15 @@ MonoBehaviour:
   m_Name: Oracle2
   m_EditorClassIdentifier: 
   title: Oracle 2
-  message: Agora as profecias tomam conta da vida das pessoas, elas passam a viver
+  message: "Agora as profecias tomam conta da vida das pessoas, elas passam a viver
     tendo as palavras dos profetas como verdades absolutas e se entregando completamente
-    a ideologia dos profetas.
+    a ideologia dos Or\xE1culo."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 5ef0961a4f1fb4d4eac65da6282b0f17, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
+    message: "Voc\xEAs ainda continuam com isso? Como podem acreditar em algo sem
+      prova alguma, apenas acreditando na palavra desses auto intitulados profetas."
   endRule: {fileID: 0}

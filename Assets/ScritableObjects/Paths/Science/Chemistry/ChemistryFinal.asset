@@ -13,11 +13,9 @@ MonoBehaviour:
   m_Name: ChemistryFinal
   m_EditorClassIdentifier: 
   title: Chemistry Final
-  message: "Os cientistas passaram a estudar novas formas de energia por elementos
-    enriquecidos e acabaram resultando em acidentes nucleares que contaminaram a popula\xE7\xE3o
-    e acabaram com a vida."
+  message: 
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}
   interactions: []
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 357142ed674d3784d99f41479c369c83, type: 2}

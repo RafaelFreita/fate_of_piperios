@@ -53,7 +53,7 @@ public class Artifact : MonoBehaviour
 
     IEnumerator RestartSceneAsync()
     {
-        yield return new WaitForSeconds(3);
+        yield return new WaitForSeconds(6);
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 

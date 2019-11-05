@@ -12,9 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: ProfetasLunaticos
   m_EditorClassIdentifier: 
-  message: PROFETAS LUNATICOS ACABARAM COM O MUNDO!!!
+  triggeredMessage: "Os Profetas predizem o fim do mundo por uma enorme cat\xE1strofe
+    e a popula\xE7\xE3o seguindo suas palavras se entregam para o Or\xE1culo antes
+    disso acontecer, pela grande influ\xEAncia deles pelo mundo a sociedade entra
+    em colapso e os seguidores dos profetas levam todos consigo destruindo completamente
+    a vida humana no planeta e mesmo depois de centenas de anos o desastre nunca aconteceu. "
+  untriggeredMessage: "Os Profetas predizem o fim do mundo por uma enorme cat\xE1strofe
+    e a popula\xE7\xE3o seguindo suas palavras se entregam para o Or\xE1culo antes
+    disso acontecer, por\xE9m os homens da ci\xEAncia colocam sua profecia a prova
+    e a desmentem deixando a popula\xE7\xE3o em d\xFAvida. A parte da popula\xE7\xE3o
+    que decidiu esperar a cat\xE1strofe continua viva vendo que ela nunca aconteceu
+    e os Profetas foram desacreditados. "
   activeNodes:
-  - {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
+  - {fileID: 11400000, guid: 1f2c904fa4ac9534fb120426660b885f, type: 2}
+  - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
   unactiveNodes:
   - {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
   - {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}

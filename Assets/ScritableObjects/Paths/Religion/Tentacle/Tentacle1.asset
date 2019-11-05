@@ -17,8 +17,12 @@ MonoBehaviour:
     Todos aqueles que fazem parte parecem ter seu comportamento mudado e passam a
     se comportar como uma manada fazendo as vontades do que os l\xEDderes do culto
     falam em nome do deus tent\xE1culo. "
-  isActive: 1
+  isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
+    message: Como esses pecadores foram permitidos aparecerem por aqui! Cacem todos
+      os que se dizem desse culto.
   endRule: {fileID: 0}

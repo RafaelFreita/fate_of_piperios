@@ -12,7 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: PhysicsEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: 
-  untriggeredMessage: 
-  activeNodes: []
+  triggeredMessage: "O maior experimento teve seu in\xEDcio e fim prematuro onde os
+    estudiosos tentaram recriar um de seus objetos de pesquisa chamado buraco negro
+    em um de seus laborat\xF3rios o que resultou em uma cat\xE1strofe catacl\xEDsmica
+    e o mundo foi implodido. "
+  untriggeredMessage: "O maior experimento teve seu in\xEDcio e fim prematuro os estudiosos
+    tentaram recriar um buraco negro em laborat\xF3rio, por\xE9m a f\xE9 da luz interviu
+    e acabou com suas pesquisas matando os hereges que estavam criando algo para engolir
+    a luz do mundo."
+  activeNodes:
+  - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
+  - {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}
   unactiveNodes: []

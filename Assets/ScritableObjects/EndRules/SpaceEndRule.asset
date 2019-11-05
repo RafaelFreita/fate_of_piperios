@@ -12,7 +12,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: SpaceEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: 
-  untriggeredMessage: 
-  activeNodes: []
+  triggeredMessage: "Os estudiosos descobriram uma forma de se comunicar com outros
+    planetas, obtiveram uma resposta sobre uma visita e precisaria emitir um sinal
+    que guiaria os seres do outro planeta at\xE9 o seu, mas aconteceu de que a mensagem
+    era uma armadilha o outro planeta ataca e sem poder se defender as pessoas do
+    seu mundo s\xE3o escravizadas e seus recursos consumidos. "
+  untriggeredMessage: "Os estudiosos se comunicaram com outro planeta e enviaram um
+    sinal para receber os visitantes, entretanto quando os visitantes chegaram come\xE7aram
+    uma invas\xE3o que foi rapidamente contida pela uni\xE3o de for\xE7as da f\xE9
+    da Luz com os cientistas, milhares de vidas se perderam na batalha. "
+  activeNodes:
+  - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
+  - {fileID: 11400000, guid: 1f2c904fa4ac9534fb120426660b885f, type: 2}
+  - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
   unactiveNodes: []

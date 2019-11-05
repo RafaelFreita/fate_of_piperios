@@ -16,8 +16,12 @@ MonoBehaviour:
   message: "Profetizar o futuro por meio da interpreta\xE7\xE3o de enigmas e charadas.
     os Profetas surgem no mundo representando essa entidade chamada de o Or\xE1culo
     eles se espalham pelo mundo e come\xE7am a guiar seu povo atrav\xE9s de suas profecias."
-  isActive: 1
+  isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
+    message: "Prever algo baseado unicamente em interpretar profecias sem cabimento
+      n\xE3o parece um caminho muito promissor."
   endRule: {fileID: 0}
