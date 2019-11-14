@@ -18,8 +18,7 @@ MonoBehaviour:
   untriggeredMessage: " Um ritual para invocar o deus Tent\xE1culo foi iniciado, mas
     foi impedido a tempo pelos seguidores da luz e do Or\xE1culo. Os cultistas foram
     todos perseguidos e mortos pelos representantes das outras f\xE9s. "
-  activeNodes:
+  activeNodes: []
+  unactiveNodes:
   - {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
   - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
-  unactiveNodes:
-  - {fileID: 11400000, guid: 965806ae837555e47a277be520635e1a, type: 2}

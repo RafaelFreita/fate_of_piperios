@@ -20,7 +20,7 @@ MonoBehaviour:
     tentaram recriar um buraco negro em laborat\xF3rio, por\xE9m a f\xE9 da luz interviu
     e acabou com suas pesquisas matando os hereges que estavam criando algo para engolir
     a luz do mundo."
-  activeNodes:
+  activeNodes: []
+  unactiveNodes:
   - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
   - {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}
-  unactiveNodes: []

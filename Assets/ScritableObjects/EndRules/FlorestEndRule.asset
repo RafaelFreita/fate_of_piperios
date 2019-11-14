@@ -21,8 +21,8 @@ MonoBehaviour:
     alarmantes e o planeta como respostas trouxe uma era do gelo repentina, os cientistas
     prevendo isso conseguiram preparar uma contra medida e criar domos que protegeram
     as pessoas do frio intenso. "
-  activeNodes:
+  activeNodes: []
+  unactiveNodes:
   - {fileID: 11400000, guid: 1f2c904fa4ac9534fb120426660b885f, type: 2}
   - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
   - {fileID: 11400000, guid: 965806ae837555e47a277be520635e1a, type: 2}
-  unactiveNodes: []

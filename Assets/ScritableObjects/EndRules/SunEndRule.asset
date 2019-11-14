@@ -21,7 +21,7 @@ MonoBehaviour:
     a os hereges, entretanto as pessoas distribu\xEDdas pelo planeta s\xE3o um problema
     e logo uma resist\xEAncia contra a f\xE9 da luz \xE9 formada e uma guerra \xE9
     travada at\xE9 hoje. "
-  activeNodes:
+  activeNodes: []
+  unactiveNodes:
   - {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}
   - {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}
-  unactiveNodes: []

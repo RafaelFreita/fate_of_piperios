@@ -15,12 +15,12 @@ public class EndRule : ScriptableObject
     {
         foreach(StoryNode node in activeNodes)
         {
-            if (!node.isActive) return true;
+            if (node.isActive) return true;
         }
 
         foreach (StoryNode node in unactiveNodes)
         {
-            if (node.isActive) return true;
+            if (!node.isActive) return true;
         }
 
         return false;

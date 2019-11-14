@@ -21,6 +21,6 @@ MonoBehaviour:
     receberam a miss\xE3o de proteger as profundezas do mar e passaram a combater
     e eliminar aqueles que abusavam dos oceanos os oferecendo como tributo em seus
     rituais. "
-  activeNodes:
+  activeNodes: []
+  unactiveNodes:
   - {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
-  unactiveNodes: []
