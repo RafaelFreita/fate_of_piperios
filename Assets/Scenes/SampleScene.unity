@@ -1066,6 +1066,11 @@ PrefabInstance:
       propertyPath: m_SizeDelta.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4243812508402432030, guid: 824a85c7ea883a643ab58bdabd15a251,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0.000015258789
+      objectReference: {fileID: 0}
     - target: {fileID: 4243812508110146389, guid: 824a85c7ea883a643ab58bdabd15a251,
         type: 3}
       propertyPath: m_AnchorMin.y
@@ -1095,6 +1100,26 @@ PrefabInstance:
         type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4243812507056747268, guid: 824a85c7ea883a643ab58bdabd15a251,
+        type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4243812507525467062, guid: 824a85c7ea883a643ab58bdabd15a251,
+        type: 3}
+      propertyPath: m_TagString
+      value: Scrollview
+      objectReference: {fileID: 0}
+    - target: {fileID: 4243812507598229004, guid: 824a85c7ea883a643ab58bdabd15a251,
+        type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 4243812507598229006, guid: 824a85c7ea883a643ab58bdabd15a251,
+        type: 3}
+      propertyPath: m_Value
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4243812508402432024, guid: 824a85c7ea883a643ab58bdabd15a251,
         type: 3}
@@ -1678,6 +1703,8 @@ MonoBehaviour:
   speedX: 2
   speedY: 2
   smoothTime: 0.5
+  uniformDirection: {x: 0, y: 0}
+  uniformRotationSpeed: 2.5
   maxSpeed: 100
 --- !u!1 &1867755740
 GameObject:
@@ -1903,6 +1930,24 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1908598592 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4243812507525467062, guid: 824a85c7ea883a643ab58bdabd15a251,
+    type: 3}
+  m_PrefabInstance: {fileID: 1184496340}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1908598593
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1908598592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc317cfbff1c9854daf2ed0d2108dca7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2138677391
 GameObject:
   m_ObjectHideFlags: 0

@@ -7,6 +7,7 @@ TagManager:
   - HistoryLog
   - Blackscreen
   - LevelChanger
+  - Scrollview
   layers:
   - Default
   - TransparentFX

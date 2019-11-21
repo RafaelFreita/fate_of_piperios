@@ -34,6 +34,7 @@ public class Artifact : MonoBehaviour
         if (node.endRule)
         {
             textAdded = true;
+            activatable = false;
             if (node.endRule.Check()) // Mundo acabou
             {
                 logManager.AddMessage(node.endRule.triggeredMessage);
@@ -42,7 +43,6 @@ public class Artifact : MonoBehaviour
             else                      // Mundo não acabou
             {
                 logManager.AddMessage(node.endRule.untriggeredMessage);
-                activatable = false;
             }
         }
 

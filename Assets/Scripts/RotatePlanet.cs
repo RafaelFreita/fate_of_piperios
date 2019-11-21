@@ -9,6 +9,9 @@ public class RotatePlanet : MonoBehaviour
     public float speedY = 2.0f;
     public float smoothTime = 0.5f;
 
+    public Vector2 uniformDirection;
+    public float uniformRotationSpeed;
+
     public float maxSpeed = 3.0f;
 
     private float auxHorizontal;
@@ -19,6 +22,16 @@ public class RotatePlanet : MonoBehaviour
 
     private Vector2 currentVel;
     private Vector2 targetVel;
+
+
+    private void Start()
+    {
+        Vector3 onSphere = Random.onUnitSphere;
+
+        uniformDirection.x = onSphere.x;
+        uniformDirection.y = onSphere.y;
+        uniformDirection.Normalize();
+    }
 
     void Update()
     {
@@ -36,11 +49,26 @@ public class RotatePlanet : MonoBehaviour
 
             auxHorizontal = Mathf.Clamp(Mathf.Lerp(auxHorizontal, targetVel.x, smoothTime), -maxSpeed, maxSpeed);
             auxVertical = Mathf.Clamp(Mathf.Lerp(auxVertical, targetVel.y, smoothTime), -maxSpeed, maxSpeed);
+
+            uniformDirection.x = auxHorizontal;
+            uniformDirection.y = auxVertical;
+            uniformDirection.Normalize();
         }
         else
         {
             auxVertical = Input.GetAxis("Vertical") * 100.0f;
             auxHorizontal = Input.GetAxis("Horizontal") * 100.0f;
+
+            if (auxHorizontal != 0.0f) uniformDirection.x = auxHorizontal;
+            if (auxVertical != 0.0f) uniformDirection.y = auxVertical;
+            uniformDirection.Normalize();
+        }
+
+        // Setting constant rotation
+        if (auxHorizontal == 0.0f && auxVertical == 0.0f)
+        {
+            auxHorizontal = uniformDirection.x * uniformRotationSpeed;
+            auxVertical = uniformDirection.y * uniformRotationSpeed;
         }
 
         transform.Rotate(Vector3.up, auxHorizontal * speedX * Time.deltaTime, Space.World);
