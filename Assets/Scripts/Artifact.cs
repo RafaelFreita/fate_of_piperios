@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class Artifact : MonoBehaviour
 {
@@ -14,16 +13,20 @@ public class Artifact : MonoBehaviour
     private int activationsCounter = 0;
     private Vector3 initScale;
 
+    static bool gameHasEnded = false;
+
     private void Start()
     {
         initScale = transform.localScale;
         logManager = GameObject.FindGameObjectWithTag("HistoryLog").GetComponent<LogManager>();
+        gameHasEnded = false;
     }
+
 
     private void Activate()
     {
-        // Não ser clicável caso o mundo não acabe nesse path
-        if (!activatable) return;
+        // Não ser clicável caso o mundo não acabe nesse path ou já tenha acabado
+        if (!activatable || gameHasEnded) return;
 
         // Ativa o nodo
         node.isActive = true;
@@ -38,7 +41,8 @@ public class Artifact : MonoBehaviour
             if (node.endRule.Check()) // Mundo acabou
             {
                 logManager.AddMessage(node.endRule.triggeredMessage);
-                StartCoroutine(RestartSceneAsync());
+                gameHasEnded = true;
+                FindObjectOfType<SceneController>().EnableRestart();
             }
             else                      // Mundo não acabou
             {
@@ -83,25 +87,20 @@ public class Artifact : MonoBehaviour
         }
 
         // Passa pro proximo nodo
-        if (node.nextNode)
+        if (!gameHasEnded)
         {
-            node = node.nextNode;
-            activationsCounter += 1;
-            transform.localScale = initScale * 1.5f * activationsCounter;
+            if (node.nextNode)
+            {
+                node = node.nextNode;
+                activationsCounter += 1;
+                transform.localScale = initScale * 1.5f * activationsCounter;
+            }
+            else
+                Debug.LogError("Didn't find next node!! Title: " + node.title);
         }
-        else
-            Debug.LogError("Didn't find next node!! Title: " + node.title);
 
     }
-
-    IEnumerator RestartSceneAsync()
-    {
-        GameObject.FindWithTag("LevelChanger").GetComponent<Animator>().SetTrigger("FadeOut");
-
-        yield return new WaitForSeconds(6);
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-    }
-
+    
     private void OnMouseDown()
     {
         Debug.Log("Clicked on artifact: " + name);
