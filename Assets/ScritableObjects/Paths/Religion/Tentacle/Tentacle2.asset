@@ -19,5 +19,17 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 07389982d74cd7b4b87ee0daf1e8a8e4, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
+    message: "Os desaparecimentos est\xE3o cada vez mais recentes, rituais profanos
+      s\xE3o encontrados em suas casas. Sacrif\xEDcios em homenagem a esse deus pag\xE3o
+      est\xE3o virando rotina. Tropas foram mobilizadas, eles ser\xE3o contidos a
+      todo custo."
+  - nodes:
+    - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
+    message: "Tudo isso estava predito, os rituais profanos, os sacrif\xEDcios em
+      nome de algu\xE9m que n\xE3o o Or\xE1culo, tudo isso ficando comum j\xE1 estava
+      escrito nas profecias. As pessoas precisam escutar as profecias ou o p\xE2nico
+      e o caos n\xE3o parar\xE3o."
   endRule: {fileID: 0}

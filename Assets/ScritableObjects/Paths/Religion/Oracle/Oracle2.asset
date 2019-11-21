@@ -21,7 +21,15 @@ MonoBehaviour:
   nextNode: {fileID: 11400000, guid: 5ef0961a4f1fb4d4eac65da6282b0f17, type: 2}
   interactions:
   - nodes:
-    - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
-    message: "Voc\xEAs ainda continuam com isso? Como podem acreditar em algo sem
-      prova alguma, apenas acreditando na palavra desses auto intitulados profetas."
+    - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
+    message: "Os hereges que espalham essas profecias est\xE3o tomando conta da vida
+      das pessoas. Eles est\xE3o esquecendo da justi\xE7a da luz e de aplic\xE1 la
+      para ouvir as palavras e a ideologia do Or\xE1culo. Todos esses hereges devem
+      arder."
+  - nodes:
+    - {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
+    message: "Aqueles que se entregaram completamente a ideologia de escutar esses
+      lun\xE1ticos que interpretam formas na poeira de pedras ser\xE3o todos entregues
+      como oferendas ao nosso senhor Tent\xE1culo. A \xFAnica coisa absoluta n\xE3o
+      deve ser as palavras do Or\xE1culo, mas sim a nossa vontade."
   endRule: {fileID: 0}

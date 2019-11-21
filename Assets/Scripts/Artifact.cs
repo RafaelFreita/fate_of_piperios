@@ -10,7 +10,7 @@ public class Artifact : MonoBehaviour
 
     private bool activatable = true;
     private LogManager logManager;
-
+    private bool interacaoFlag;
     private int activationsCounter = 0;
     private Vector3 initScale;
 
@@ -48,8 +48,38 @@ public class Artifact : MonoBehaviour
 
         if (!textAdded)
         {
-            // Mostra a mensagem
-            logManager.AddMessage(node.message);
+            // valida se existe interações
+            if (node.interactions.Count > 0)
+            {
+                interacaoFlag = true;
+
+                // percorre as interações e olha se todos os nodos da interação estão ativos
+
+                foreach (Interaction a in node.interactions)
+                {
+                    foreach (StoryNode b in a.nodes)
+                    {
+                        if (!b.isActive)
+                        {
+                            interacaoFlag = false;
+                        }
+                    }
+
+                    // a primeira interação que tiver todos ativos é adicionada como o texto atual
+                    // - TODO sortear qual interação aparece se tiver amis de uma ativa
+                    if (interacaoFlag)
+                    {
+                        logManager.AddMessage(a.message);
+                        break;
+                    }
+                } 
+            } 
+
+            if (!interacaoFlag)
+            {
+                // Mostra a mensagem
+                logManager.AddMessage(node.message);
+            }
         }
 
         // Passa pro proximo nodo

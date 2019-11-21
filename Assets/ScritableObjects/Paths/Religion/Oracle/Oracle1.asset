@@ -21,7 +21,14 @@ MonoBehaviour:
   nextNode: {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
   interactions:
   - nodes:
-    - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
-    message: "Prever algo baseado unicamente em interpretar profecias sem cabimento
-      n\xE3o parece um caminho muito promissor."
+    - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
+    message: "Interpretar charadas e enigmas para dizer o futuro? Que tipo de heresia
+      \xE9 essa? Seguidores desse tal chamado de o Or\xE1culo se espalham pelo mundo
+      querendo guiar o povo com suas profecias hereges."
+  - nodes:
+    - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
+    message: "Enigmas e charadas de pedras esquecidas pelo homem n\xE3o dizem nada
+      sobre nosso futuro como os representantes desse Or\xE1culo querem espalhar.
+      O grande Tent\xE1culo e nosso \xFAnico senhor e as suas palavras s\xE3o as \xFAnicas
+      que devemos ouvir."
   endRule: {fileID: 0}

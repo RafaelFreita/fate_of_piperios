@@ -22,7 +22,14 @@ MonoBehaviour:
   nextNode: {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
   interactions:
   - nodes:
-    - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
-    message: Como esses pecadores foram permitidos aparecerem por aqui! Cacem todos
-      os que se dizem desse culto.
+    - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
+    message: "Um culto herege est\xE1 surgindo e se espalhando rapidamente. As pessoas
+      est\xE3o se comportando como mandadas falando sobre algo como um deus Tent\xE1culo
+      pag\xE3o. Precisamos os impedir a todo custo."
+  - nodes:
+    - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
+    message: "O grande Or\xE1culo avisou sobre a chegada deles, aqueles que cultuam
+      o deus tent\xE1culo chegaram e est\xE3o roubando nossos rebanhos. Est\xE3o se
+      espalhando depressa e as pessoas agem apenas para satisfazer seus l\xEDderes
+      em vez de seguir a palavra do grande Or\xE1culo."
   endRule: {fileID: 0}

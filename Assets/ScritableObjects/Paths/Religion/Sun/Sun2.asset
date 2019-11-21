@@ -20,5 +20,17 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: e05a8b72a56d5c9469dafd1e8ec6e7ec, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
+    message: "Formaram ex\xE9rcitos, seus l\xEDderes julgar\xE3o a todos hereges,
+      sua vontade deve se fazer acima dos outros, sua miss\xE3o divina \xE9 erradicar
+      todos que n\xE3o seguem sua doutrina. Tudo j\xE1 estava descrito nas palavras
+      de nossos profetas."
+  - nodes:
+    - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
+    message: "Acham que por formar ex\xE9rcitos e dizer que somos hereges v\xE3o conseguir
+      nos parar? Nosso culto permanecer\xE1 e a vontade do Tent\xE1culo se concretizar\xE1!
+      Sua miss\xE3o divina de erradicar o mal n\xE3o passa de brincadeira de crian\xE7a
+      comparada ao nosso senhor!"
   endRule: {fileID: 0}

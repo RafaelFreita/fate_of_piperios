@@ -16,8 +16,18 @@ MonoBehaviour:
   message: "A f\xE9 na luz verdadeira passa a guiar as pessoas pregando ideais de
     justi\xE7a e destrui\xE7\xE3o do mal, rapidamente a comunidade da luz se torna
     uma for\xE7a a ser respeitada e temida."
-  isActive: 1
+  isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
+    message: "O grande or\xE1culo nos mandou vis\xF5es sobre os representantes de
+      uma justi\xE7a e ideais cegos. Que causam tanto esplendor quanto temor. A f\xE9
+      da Luz finalmente apareceu."
+  - nodes:
+    - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
+    message: "Nossos opostos apareceram, dizem que representam justi\xE7a e est\xE3o
+      aqui para destruir o mal. Os sacrif\xEDcios em nome do grande Tent\xE1culo n\xE3o
+      ser\xE3o tolerados? Quem essa f\xE9 da Luz pensa que \xE9?"
   endRule: {fileID: 0}
