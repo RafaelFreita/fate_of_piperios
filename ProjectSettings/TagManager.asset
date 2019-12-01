@@ -8,6 +8,7 @@ TagManager:
   - Blackscreen
   - LevelChanger
   - Scrollview
+  - IconsLog
   layers:
   - Default
   - TransparentFX

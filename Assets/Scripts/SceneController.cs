@@ -17,6 +17,7 @@ public class SceneController : MonoBehaviour
 
     public void RestartScene()
     {
+        button.SetActive(false);
         StartCoroutine(RestartSceneAsync());
     }
 

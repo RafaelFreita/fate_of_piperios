@@ -23,4 +23,6 @@ public class StoryNode : ScriptableObject
     public List<Interaction> interactions;
 
     public EndRule endRule;
+
+    public GameObject iconPrefab;
 }

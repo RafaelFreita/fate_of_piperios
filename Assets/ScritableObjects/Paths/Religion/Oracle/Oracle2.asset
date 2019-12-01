@@ -33,3 +33,5 @@ MonoBehaviour:
       como oferendas ao nosso senhor Tent\xE1culo. A \xFAnica coisa absoluta n\xE3o
       deve ser as palavras do Or\xE1culo, mas sim a nossa vontade."
   endRule: {fileID: 0}
+  iconPrefab: {fileID: 4746363717683007510, guid: 1ca59f6c00dcb6640b47ad48f7da26e5,
+    type: 3}

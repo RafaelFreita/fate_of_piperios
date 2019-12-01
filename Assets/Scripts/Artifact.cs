@@ -33,6 +33,8 @@ public class Artifact : MonoBehaviour
 
         bool textAdded = false;
 
+        GameObject.FindObjectOfType<GameController>().AddIcon(node.iconPrefab);
+
         // Checa se possui end rule
         if (node.endRule)
         {

@@ -22,3 +22,5 @@ MonoBehaviour:
   nextNode: {fileID: 11400000, guid: d905aea574e36944d8e4cdc84dff33e9, type: 2}
   interactions: []
   endRule: {fileID: 0}
+  iconPrefab: {fileID: 4746363717683007510, guid: 46db3fa0d404afb47b6c10829531ad9c,
+    type: 3}

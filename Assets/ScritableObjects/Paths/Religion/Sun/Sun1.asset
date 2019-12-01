@@ -31,3 +31,5 @@ MonoBehaviour:
       aqui para destruir o mal. Os sacrif\xEDcios em nome do grande Tent\xE1culo n\xE3o
       ser\xE3o tolerados? Quem essa f\xE9 da Luz pensa que \xE9?"
   endRule: {fileID: 0}
+  iconPrefab: {fileID: 4746363717683007510, guid: e7c32dc184acdac488110b94102dde42,
+    type: 3}

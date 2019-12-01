@@ -33,3 +33,5 @@ MonoBehaviour:
       escrito nas profecias. As pessoas precisam escutar as profecias ou o p\xE2nico
       e o caos n\xE3o parar\xE3o."
   endRule: {fileID: 0}
+  iconPrefab: {fileID: 4746363717683007510, guid: 71abf49d5526129498b7703f75cea114,
+    type: 3}

@@ -33,3 +33,5 @@ MonoBehaviour:
       espalhando depressa e as pessoas agem apenas para satisfazer seus l\xEDderes
       em vez de seguir a palavra do grande Or\xE1culo."
   endRule: {fileID: 0}
+  iconPrefab: {fileID: 4746363717683007510, guid: 71abf49d5526129498b7703f75cea114,
+    type: 3}

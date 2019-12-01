@@ -25,3 +25,5 @@ MonoBehaviour:
     message: "Como assim voc\xEAs querem nos dizer como a luz funciona? A luz \xE9
       a nossa f\xE9 e n\xE3o essa piada cient\xEDfica. "
   endRule: {fileID: 0}
+  iconPrefab: {fileID: 4746363717683007510, guid: b8b3489e0aa43e045a2d3281b52e50ee,
+    type: 3}
