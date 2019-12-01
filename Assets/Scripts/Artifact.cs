@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class Artifact : MonoBehaviour
 {
@@ -15,11 +16,14 @@ public class Artifact : MonoBehaviour
 
     static bool gameHasEnded = false;
 
+    private TextMeshProUGUI tooltipText;
     private void Start()
     {
         initScale = transform.localScale;
         logManager = GameObject.FindGameObjectWithTag("HistoryLog").GetComponent<LogManager>();
         gameHasEnded = false;
+
+        tooltipText = GameObject.FindGameObjectWithTag("Tooltip").GetComponent<TextMeshProUGUI>();
     }
 
 
@@ -78,8 +82,8 @@ public class Artifact : MonoBehaviour
                         logManager.AddMessage(a.message);
                         break;
                     }
-                } 
-            } 
+                }
+            }
 
             if (!interacaoFlag)
             {
@@ -102,11 +106,28 @@ public class Artifact : MonoBehaviour
         }
 
     }
-    
+
     private void OnMouseDown()
     {
         Debug.Log("Clicked on artifact: " + name);
         Activate();
+    }
+
+    private void OnMouseOver()
+    {
+        if (!activatable || gameHasEnded)
+        {
+            tooltipText.text = "X";
+        }
+        else
+        {
+            tooltipText.text = node.title;
+        }
+    }
+
+    private void OnMouseExit()
+    {
+        tooltipText.text = "";
     }
 
 }

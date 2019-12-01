@@ -9,6 +9,7 @@ TagManager:
   - LevelChanger
   - Scrollview
   - IconsLog
+  - Tooltip
   layers:
   - Default
   - TransparentFX
