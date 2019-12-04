@@ -29,6 +29,6 @@ MonoBehaviour:
     message: "A vista \xE9 muito mais bela de cima das montanhas do que do meio das
       \xE1rvores, al\xE9m de expandir para as florestas \xE9 muito pior, insetos e
       animais rastejantes por todos os lados. "
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 5c6f8a3b1804fb542bc86bf660c5b749, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 64f1159599c30cc4e90ebea71baac658,
     type: 3}

@@ -30,6 +30,6 @@ MonoBehaviour:
     message: "Nossos opostos apareceram, dizem que representam justi\xE7a e est\xE3o
       aqui para destruir o mal. Os sacrif\xEDcios em nome do grande Tent\xE1culo n\xE3o
       ser\xE3o tolerados? Quem essa f\xE9 da Luz pensa que \xE9?"
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 5c6f8a3b1804fb542bc86bf660c5b749, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: e7c32dc184acdac488110b94102dde42,
     type: 3}

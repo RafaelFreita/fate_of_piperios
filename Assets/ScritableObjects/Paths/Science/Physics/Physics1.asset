@@ -29,6 +29,6 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
     message: "Por qual raz\xE3o vamos teorizar sobre a cria\xE7\xE3o dos mundos se
       podemos observ\xE1 los pelos nossos telesc\xF3pios? "
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 5c6f8a3b1804fb542bc86bf660c5b749, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: b8b3489e0aa43e045a2d3281b52e50ee,
     type: 3}

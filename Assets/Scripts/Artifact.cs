@@ -42,17 +42,19 @@ public class Artifact : MonoBehaviour
         // Checa se possui end rule
         if (node.endRule)
         {
-            textAdded = true;
-            activatable = false;
             if (node.endRule.Check()) // Mundo acabou
             {
                 logManager.AddMessage(node.endRule.triggeredMessage);
                 gameHasEnded = true;
                 FindObjectOfType<SceneController>().EnableRestart();
+                textAdded = true;
+                activatable = false;
             }
-            else                      // Mundo não acabou
+            else if (node.endRule.untriggeredMessage.Trim().Length > 0)                   // Mundo não acabou
             {
                 logManager.AddMessage(node.endRule.untriggeredMessage);
+                textAdded = true;
+                activatable = false;
             }
         }
 

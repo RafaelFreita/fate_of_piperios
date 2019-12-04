@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
+  m_Name: AllOneEndRule
+  m_EditorClassIdentifier: 
+  triggeredMessage: "Uma ideia de utopia come\xE7a a se formar onde todos acreditam
+    que tudo possa conviver em conjunto, por\xE9m essa realidade n\xE3o existe e as
+    pessoas acabam vivendo umas contra as outras desacreditando ideias alheias que
+    faz o caos se instaurar no mundo que acaba por terminar ele."
+  untriggeredMessage: 
+  activeNodes:
+  - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
+  - {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
+  - {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
+  - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
+  - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
+  - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
+  - {fileID: 11400000, guid: 16a5973c8f7850444b62f514c64cca18, type: 2}
+  - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
+  - {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
+  unactiveNodes: []
