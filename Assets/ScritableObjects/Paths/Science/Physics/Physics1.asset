@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Physics1
   m_EditorClassIdentifier: 
-  title: Physics 1
-  message: Leis e regras e teorias que contam sobre como o mundo foi criado e sobre
+  title: "F\xEDsica I"
+  message: Leis, regras e teorias que contam sobre como o mundo foi criado e sobre
     como todas as coisas interagem entre si. Entretanto apenas aqueles que estudam
     isso veem essas coisas que passam despercebidas pelas mentes dos outros.
   isActive: 0

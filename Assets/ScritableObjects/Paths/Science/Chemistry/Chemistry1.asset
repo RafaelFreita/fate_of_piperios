@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Chemistry1
   m_EditorClassIdentifier: 
-  title: Chemistry 1
+  title: "Qu\xEDmica I"
   message: "Pessoas pelo mundo inteiro passam a estudar a estranha ci\xEAncia outrora
-    chamada de alquimia, compostos e rea\xE7\xF5es se tornam populares entre esses
+    chamada de alquimia. Compostos e rea\xE7\xF5es se tornam populares entre esses
     estudiosos."
   isActive: 0
   isFinal: 0
@@ -23,11 +23,11 @@ MonoBehaviour:
   - nodes:
     - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
     message: "Estudar alquimia ? Esse \xE9 apenas um ramo de estudo, n\xE3o h\xE1
-      porque se especializar nisso. A f\xEDsica como um todo \xE9 muito mais gratificante. "
+      porque se especializar nisso. A f\xEDsica como um todo \xE9 muito mais gratificante."
   - nodes:
     - {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
     message: "Por que estudar f\xF3rmulas e compostos de elementos mundanos quando
-      podemos descobrir as verdades do universo estudando o espa\xE7o e as estrelas. "
+      podemos descobrir as verdades do universo estudando o espa\xE7o e as estrelas."
   endRule: {fileID: 11400000, guid: 5c6f8a3b1804fb542bc86bf660c5b749, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 42ac3c6020ca4944fbfe0cbdb266d2b1,
     type: 3}

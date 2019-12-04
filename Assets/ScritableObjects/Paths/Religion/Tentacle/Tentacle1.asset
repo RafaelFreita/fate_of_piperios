@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Tentacle1
   m_EditorClassIdentifier: 
-  title: Tentacle 1
+  title: "Tent\xE1culo I"
   message: "Um misterioso e sinistro culto come\xE7a a se espalhar pelo seu mundo.
     Todos aqueles que fazem parte parecem ter seu comportamento mudado e passam a
-    se comportar como uma manada fazendo as vontades do que os l\xEDderes do culto
-    falam em nome do deus tent\xE1culo. "
+    se comportar como uma manada, fazendo as vontades dos l\xEDderes do culto. Fala-se
+    incessantemente em um deus tent\xE1culo."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}

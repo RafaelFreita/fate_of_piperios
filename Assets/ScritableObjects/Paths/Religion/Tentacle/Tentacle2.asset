@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Tentacle2
   m_EditorClassIdentifier: 
-  title: Tentacle 2
-  message: "Rumores de pessoas desaparecendo e rituais as deixando insanas se espalham
+  title: "Tent\xE1culo II"
+  message: "Rumores de desaparecimentos e rituais que deixam pessoas insanas espalham-se
     rapidamente. Sacrif\xEDcios em nome do Deus tent\xE1culo se tornam cada vez mais
-    comuns espalhando o p\xE2nico e caos pelo mundo."
+    comuns, espalhando o p\xE2nico e caos pelo mundo."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 07389982d74cd7b4b87ee0daf1e8a8e4, type: 2}
@@ -28,10 +28,10 @@ MonoBehaviour:
       todo custo."
   - nodes:
     - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
-    message: "Tudo isso estava predito, os rituais profanos, os sacrif\xEDcios em
-      nome de algu\xE9m que n\xE3o o Or\xE1culo, tudo isso ficando comum j\xE1 estava
+    message: "Tudo isso estava predito: os rituais profanos, os sacrif\xEDcios em
+      nome de algu\xE9m que n\xE3o o Or\xE1culo. Tudo isso tornar-se comum j\xE1 estava
       escrito nas profecias. As pessoas precisam escutar as profecias ou o p\xE2nico
-      e o caos n\xE3o parar\xE3o."
+      e o caos n\xE3o cessar\xE3o."
   endRule: {fileID: 11400000, guid: bff8ef1ad97fe97488c6f5a9c98e9b9c, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 71abf49d5526129498b7703f75cea114,
     type: 3}

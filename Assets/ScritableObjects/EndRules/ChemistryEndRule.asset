@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: ChemistryEndRule
   m_EditorClassIdentifier: 
   triggeredMessage: "Os cientistas passaram a estudar novas formas de energia por
-    elementos enriquecidos e acabaram resultando em acidentes nucleares que contaminaram
-    a popula\xE7\xE3o e acabaram com a vida. "
+    elementos enriquecidos, os quais resultaram em acidentes nucleares que contaminaram
+    a popula\xE7\xE3o e dizimaram com a vida."
   untriggeredMessage: "Explos\xF5es nos laborat\xF3rios acontecem por causa do estudo
-    de novas formas de energia matando milhares de pessoas. Os lugares s\xE3o rapidamente
-    isolados e aqueles que longe passam a temer o avan\xE7o sem escr\xFApulos dos
-    cientistas e a cada vez mais aderir a f\xE9 da Luz. "
+    de novas formas de energia, matando milhares de pessoas. Os lugares s\xE3o rapidamente
+    isolados e aqueles que longe passam temem o avan\xE7o sem escr\xFApulos dos cientistas.
+    Cada vez mais adere-se a f\xE9 da Luz."
   activeNodes: []
   unactiveNodes:
   - {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}

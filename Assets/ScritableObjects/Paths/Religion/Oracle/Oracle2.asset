@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Oracle2
   m_EditorClassIdentifier: 
-  title: Oracle 2
-  message: "Agora as profecias tomam conta da vida das pessoas, elas passam a viver
-    tendo as palavras dos profetas como verdades absolutas e se entregando completamente
-    a ideologia dos Or\xE1culo."
+  title: "Or\xE1culo II"
+  message: "Agora as profecias tomam conta da vida das pessoas. Elas passam a viver
+    tomando as palavras dos profetas como verdades absolutas e se entregam completamente
+    \xE0 ideologia do Or\xE1culo."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 5ef0961a4f1fb4d4eac65da6282b0f17, type: 2}
