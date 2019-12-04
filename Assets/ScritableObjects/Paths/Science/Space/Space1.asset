@@ -20,7 +20,15 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 965806ae837555e47a277be520635e1a, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
+    message: "Observar fen\xF4menos sem estarem ligados alguma lei f\xEDsica ou teoria,
+      buscar vida em outros planetas\u2026  "
+  - nodes:
+    - {fileID: 11400000, guid: 16a5973c8f7850444b62f514c64cca18, type: 2}
+    message: "Pra que ficar procurando coisas no espa\xE7o se podemos estudar e combinar
+      os elementos que possu\xEDmos aqui em m\xE3os."
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: ffc05e953c39dbc49be282b9301d9f76,
     type: 3}

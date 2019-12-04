@@ -21,9 +21,14 @@ MonoBehaviour:
   nextNode: {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
   interactions:
   - nodes:
-    - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
-    message: "Como assim voc\xEAs querem nos dizer como a luz funciona? A luz \xE9
-      a nossa f\xE9 e n\xE3o essa piada cient\xEDfica. "
+    - {fileID: 11400000, guid: 16a5973c8f7850444b62f514c64cca18, type: 2}
+    message: "Leis, regras e teorias sobre o mundo de nada adiantam se n\xE3o combinar
+      alguns compostos e ver o resultado. As pessoas n\xE3o ligavam pra isso antes
+      e v\xE3o passar ainda a n\xE3o ligar."
+  - nodes:
+    - {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
+    message: "Por qual raz\xE3o vamos teorizar sobre a cria\xE7\xE3o dos mundos se
+      podemos observ\xE1 los pelos nossos telesc\xF3pios? "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: b8b3489e0aa43e045a2d3281b52e50ee,
     type: 3}

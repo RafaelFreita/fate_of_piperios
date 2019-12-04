@@ -21,7 +21,17 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 4feea4b8a1133884d8f85f2c51eed5c7, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
+    message: "Existe tanto espa\xE7o em nosso pr\xF3prio territ\xF3rio precisamos
+      apenas remover as florestas e conseguimos construir, n\xE3o precisamos nos distanciar
+      para essas ilhas. "
+  - nodes:
+    - {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
+    message: "Os alpes e montes n\xE3o possu\xEDam tribos para quem passamos doen\xE7as
+      ou tivemos que lutar para conquistar o espa\xE7o, \xE9 totalmente improdutivo
+      financiar tantas viagens para expandirmos t\xE3o pouco nessas ilhas. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: 46db3fa0d404afb47b6c10829531ad9c,
     type: 3}

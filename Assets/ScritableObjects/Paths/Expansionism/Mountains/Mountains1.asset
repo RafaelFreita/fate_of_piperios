@@ -20,7 +20,16 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 52483e2cb1903c240890ca224ef7ad3b, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
+    message: "\xC9 muito trabalho subir montanhas com materiais e construir em cima
+      delas, s\xF3 precisamos remover alguns arbustos aqui e podemos avan\xE7ar nossos
+      territ\xF3rios."
+  - nodes:
+    - {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
+    message: "Subir montanhas \xE9 t\xE3o sem emo\xE7\xE3o comparado a brisa dos mares
+      e a emo\xE7\xE3o de descobrir novas terras. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: 17e4ea936f1b3114b886554b64dcbec0,
     type: 3}

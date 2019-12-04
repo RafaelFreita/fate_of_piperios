@@ -19,7 +19,17 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 098a34c3d82dd2e4ba5067122c617f65, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
+    message: "Ficar enviando pessoas e coisas para o espa\xE7o esperando algum resultado
+      diferente do que j\xE1 obtiveram o que foi nenhum, \xE9 a defini\xE7\xE3o de
+      insanidade. "
+  - nodes:
+    - {fileID: 11400000, guid: 16a5973c8f7850444b62f514c64cca18, type: 2}
+    message: "Para que usar tantos recursos para simplesmente mandar coisas para o
+      espa\xE7o, poder\xEDamos estar usando tudo isso para fazer novos elementos aqui
+      no nosso planeta. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: ffc05e953c39dbc49be282b9301d9f76,
     type: 3}

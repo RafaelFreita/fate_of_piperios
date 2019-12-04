@@ -20,7 +20,17 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: d905aea574e36944d8e4cdc84dff33e9, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
+    message: "Agora que n\xE3o restou mais nada nos mares e nas ilhas, precisamos
+      de ajuda para expandir a civiliza\xE7\xE3o nos continentes, precisamos remover
+      as florestas que est\xE3o bloqueando nosso caminho para o avan\xE7o."
+  - nodes:
+    - {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
+    message: "Agora que n\xE3o restou nada a\xED embaixo acha que vamos aceit\xE1
+      los aqui em cima? Est\xE3o muito enganados. Fiquem com suas ilhas e mares cheios
+      de lixo. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: 46db3fa0d404afb47b6c10829531ad9c,
     type: 3}

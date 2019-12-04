@@ -20,7 +20,17 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 87c8a4ae93545334a9b17623ac48436e, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
+    message: "Dissemos para n\xE3o desmatar o continente, agora todos estamos sofrendo
+      com isso, o calor est\xE1 ficando insuport\xE1vel e cada vez mais dif\xEDcil
+      de respirar. "
+  - nodes:
+    - {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
+    message: "Todos n\xF3s que vivemos nas montanhas estamos queimando com calor,
+      as nuvens de polui\xE7\xE3o chegam em n\xF3s e estamos morrendo, avisamos para
+      n\xE3o expandir para as florestas. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: 64f1159599c30cc4e90ebea71baac658,
     type: 3}

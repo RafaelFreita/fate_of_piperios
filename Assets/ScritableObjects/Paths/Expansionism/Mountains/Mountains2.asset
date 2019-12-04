@@ -19,7 +19,16 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 801d5e7af59075241b84131dea1265d0, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}
+    message: "Est\xE3o poluindo as nascentes que vem das montanhas de prop\xF3sito!
+      Essas pessoas apenas  pensam e olham para si mesmas. "
+  - nodes:
+    - {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
+    message: "Se acham melhores s\xF3 porque vivem acima dos outros isso n\xE3o d\xE1
+      o direito de contaminar nossa \xE1gua, vamos nos retirar para as ilhas e n\xE3o
+      usar mais os recursos do continente que eles habitam. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: 17e4ea936f1b3114b886554b64dcbec0,
     type: 3}

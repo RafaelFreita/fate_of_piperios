@@ -19,7 +19,16 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 14bdb0d53207b1d4783aed25eed29c74, type: 2}
+    message: "Para que nos enfiarmos cada vez mais dentro do continente se possu\xEDmos
+      tantos mares e ilhas para explorar? "
+  - nodes:
+    - {fileID: 11400000, guid: d4d501501c6477a44aab6bb975dfed0c, type: 2}
+    message: "A vista \xE9 muito mais bela de cima das montanhas do que do meio das
+      \xE1rvores, al\xE9m de expandir para as florestas \xE9 muito pior, insetos e
+      animais rastejantes por todos os lados. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: 64f1159599c30cc4e90ebea71baac658,
     type: 3}

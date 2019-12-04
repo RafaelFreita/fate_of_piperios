@@ -20,7 +20,15 @@ MonoBehaviour:
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 8fa8d5c599ac14d4282daedaefc7447e, type: 2}
-  interactions: []
+  interactions:
+  - nodes:
+    - {fileID: 11400000, guid: 16a5973c8f7850444b62f514c64cca18, type: 2}
+    message: "Pra que perder tanto tempo fazendo teorias e leis f\xEDsicas se os experimentos
+      v\xE3o acabar causando tanta morte e destrui\xE7\xE3o? "
+  - nodes:
+    - {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
+    message: "Se apenas observassem o espa\xE7o em vez de tentar reproduzir o que
+      existe nele nos laborat\xF3rios pessoas n\xE3o estariam morrendo com esses experimentos. "
   endRule: {fileID: 0}
   iconPrefab: {fileID: 4746363717683007510, guid: b8b3489e0aa43e045a2d3281b52e50ee,
     type: 3}
