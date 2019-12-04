@@ -80,14 +80,8 @@ public class Artifact : MonoBehaviour
                            logManager.AddMessage(a.message);
                         }
                     }
-
-                    // a primeira interação que tiver todos ativos é adicionada como o texto atual
-                    // - TODO sortear qual interação aparece se tiver amis de uma ativa
-                   
                 }
             }
-
-               
         }
 
         // Passa pro proximo nodo
