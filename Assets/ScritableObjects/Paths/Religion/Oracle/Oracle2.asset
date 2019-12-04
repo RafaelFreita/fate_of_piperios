@@ -32,6 +32,6 @@ MonoBehaviour:
       lun\xE1ticos que interpretam formas na poeira de pedras ser\xE3o todos entregues
       como oferendas ao nosso senhor Tent\xE1culo. A \xFAnica coisa absoluta n\xE3o
       deve ser as palavras do Or\xE1culo, mas sim a nossa vontade."
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: bff8ef1ad97fe97488c6f5a9c98e9b9c, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 1ca59f6c00dcb6640b47ad48f7da26e5,
     type: 3}

@@ -60,6 +60,9 @@ public class Artifact : MonoBehaviour
 
         if (!textAdded)
         {
+
+            // Mostra a mensagem
+            logManager.AddMessage(node.message);
             // valida se existe interações
             if (node.interactions.Count > 0)
             {
@@ -71,27 +74,20 @@ public class Artifact : MonoBehaviour
                 {
                     foreach (StoryNode b in a.nodes)
                     {
-                        if (!b.isActive)
+                        if (b.isActive)
                         {
-                            interacaoFlag = false;
+                           GameObject.FindObjectOfType<GameController>().AddIcon(b.iconPrefab);
+                           logManager.AddMessage(a.message);
                         }
                     }
 
                     // a primeira interação que tiver todos ativos é adicionada como o texto atual
                     // - TODO sortear qual interação aparece se tiver amis de uma ativa
-                    if (interacaoFlag)
-                    {
-                        logManager.AddMessage(a.message);
-                        break;
-                    }
+                   
                 }
             }
 
-            if (!interacaoFlag)
-            {
-                // Mostra a mensagem
-                logManager.AddMessage(node.message);
-            }
+               
         }
 
         // Passa pro proximo nodo

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
+  m_Name: ReligiousWarEndRule
+  m_EditorClassIdentifier: 
+  triggeredMessage: "Todas as religi\xF5es se tornaram influentes e poderosas no mundo,
+    uma verdadeira guerra entre os representantes das f\xE9s acontece e o mundo \xE9
+    arrastado junto. A intoler\xE2ncia entre elas se torna imposs\xEDvel de se remediar
+    e tudo passa a girar apenas em torno da guerra religiosa."
+  untriggeredMessage: 
+  activeNodes:
+  - {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
+  - {fileID: 11400000, guid: 29ab53b34a18e474f84385668035f2a6, type: 2}
+  - {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
+  unactiveNodes: []

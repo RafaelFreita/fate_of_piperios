@@ -23,9 +23,7 @@ MonoBehaviour:
     e a desmentem deixando a popula\xE7\xE3o em d\xFAvida. A parte da popula\xE7\xE3o
     que decidiu esperar a cat\xE1strofe continua viva vendo que ela nunca aconteceu
     e os Profetas foram desacreditados. "
-  activeNodes:
-  - {fileID: 11400000, guid: 1f2c904fa4ac9534fb120426660b885f, type: 2}
-  - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}
+  activeNodes: []
   unactiveNodes:
   - {fileID: 11400000, guid: 1f2c904fa4ac9534fb120426660b885f, type: 2}
   - {fileID: 11400000, guid: c0c424329824d6f40a70d595c5dfe90c, type: 2}

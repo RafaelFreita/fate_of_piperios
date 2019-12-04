@@ -32,6 +32,6 @@ MonoBehaviour:
       nome de algu\xE9m que n\xE3o o Or\xE1culo, tudo isso ficando comum j\xE1 estava
       escrito nas profecias. As pessoas precisam escutar as profecias ou o p\xE2nico
       e o caos n\xE3o parar\xE3o."
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: bff8ef1ad97fe97488c6f5a9c98e9b9c, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 71abf49d5526129498b7703f75cea114,
     type: 3}

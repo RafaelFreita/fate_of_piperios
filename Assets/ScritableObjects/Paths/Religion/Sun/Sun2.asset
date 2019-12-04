@@ -33,6 +33,6 @@ MonoBehaviour:
       nos parar? Nosso culto permanecer\xE1 e a vontade do Tent\xE1culo se concretizar\xE1!
       Sua miss\xE3o divina de erradicar o mal n\xE3o passa de brincadeira de crian\xE7a
       comparada ao nosso senhor!"
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: bff8ef1ad97fe97488c6f5a9c98e9b9c, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: e7c32dc184acdac488110b94102dde42,
     type: 3}
