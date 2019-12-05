@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: ReligiousWarEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: "Um misterioso e sinistro culto come\xE7a a se espalhar pelo seu
-    mundo. Todos aqueles que fazem parte parecem ter seu comportamento mudado e passam
-    a se comportar como uma manada, fazendo as vontades dos l\xEDderes do culto. Fala-se
-    incessantemente em um deus Tent\xE1culo."
+  triggeredMessage: "Todas as religi\xF5es se tornaram influentes e poderosas no mundo.
+    Uma verdadeira guerra entre os representantes das f\xE9s acontece e o mundo \xE9
+    arrastado com ela. A intoler\xE2ncia entre elas se torna irremedi\xE1vel e tudo
+    passa a girar apenas em torno da guerra religiosa."
   untriggeredMessage: 
   activeNodes:
   - {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
