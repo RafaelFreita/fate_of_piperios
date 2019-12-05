@@ -31,6 +31,6 @@ MonoBehaviour:
     message: "Agora que n\xE3o restou nada a\xED embaixo acha que vamos aceit\xE1
       los aqui em cima? Est\xE3o muito enganados. Fiquem com suas ilhas e mares cheios
       de lixo. "
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 9ca7c51523918044d8e449b959837206, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 46db3fa0d404afb47b6c10829531ad9c,
     type: 3}

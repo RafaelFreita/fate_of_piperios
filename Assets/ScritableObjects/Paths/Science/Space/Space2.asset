@@ -30,6 +30,6 @@ MonoBehaviour:
     message: "Para que usar tantos recursos para simplesmente mandar coisas para o
       espa\xE7o, poder\xEDamos estar usando tudo isso para fazer novos elementos aqui
       no nosso planeta. "
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 9ca7c51523918044d8e449b959837206, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: ffc05e953c39dbc49be282b9301d9f76,
     type: 3}
