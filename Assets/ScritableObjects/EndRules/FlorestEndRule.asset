@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: FlorestEndRule
   m_EditorClassIdentifier: 
   triggeredMessage: "A explora\xE7\xE3o desenfreada das florestas por recursos acabou
-    intensificando o efeito estufa onde as temperaturas do planeta chegaram em n\xEDveis
+    intensificando o efeito estufa onde a temperatura do planeta chegaram em n\xEDveis
     alarmantes e o planeta como respostas trouxe uma era do gelo repentina que acabou
     com a vida em sua superf\xEDcie. "
   untriggeredMessage: "A explora\xE7\xE3o desenfreada das florestas por recursos acabou
-    intensificando o efeito estufa onde as temperaturas do planeta chegaram em n\xEDveis
+    intensificando o efeito estufa onde a temperatura do planeta chegaram em n\xEDveis
     alarmantes e o planeta como respostas trouxe uma era do gelo repentina, os cientistas
     prevendo isso conseguiram preparar uma contra medida e criar domos que protegeram
     as pessoas do frio intenso. "
