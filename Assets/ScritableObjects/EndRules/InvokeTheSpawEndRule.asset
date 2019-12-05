@@ -12,15 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: InvokeTheSpawEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: "Os cultistas do deus tent\xE1culo se infiltraram nos exploradores
-    do mar recolhendo artefatos misteriosos relacionados ao grande Tent\xE1culo  e
-    juntamente com os estudiosos do espa\xE7o e observaram os eventos c\xF3smicos,
-    at\xE9 que um dia durante um eclipse os artefatos foram postos e um ritual iniciado
-    invocando a prole do deus tent\xE1culo no mundo."
+  triggeredMessage: "Os cultistas do deus Tent\xE1culo se infiltraram nos exploradores
+    do mar, recolhendo artefatos misteriosos relacionados ao grande Tent\xE1culo.
+    Aderindo \xE0 causa, estudiosos do espa\xE7o  observaram os eventos c\xF3smicos,
+    at\xE9 que um dia durante um eclipse os artefatos foram distribu\xEDdos e um ritual
+    iniciado, invocando a prole do deus Tent\xE1culo no mundo."
   untriggeredMessage: 
   activeNodes:
   - {fileID: 11400000, guid: 20fd10afe7d6cb8448f4c12aa49e570f, type: 2}
   - {fileID: 11400000, guid: 965806ae837555e47a277be520635e1a, type: 2}
   - {fileID: 11400000, guid: 4feea4b8a1133884d8f85f2c51eed5c7, type: 2}
-  unactiveNodes:
-  - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
+  unactiveNodes: []
