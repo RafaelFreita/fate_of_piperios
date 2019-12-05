@@ -12,21 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Sun2
   m_EditorClassIdentifier: 
-  title: Sun 2
-  message: "Organizando se de forma  militarizada logo os l\xEDderes da f\xE9 da luz
-    passam a julgar quase todos os costumes e culturas diferentes como hereges, fazendo
-    sua vontade e levando a justi\xE7a como miss\xE3o divina de erradicar aqueles
-    que n\xE3o seguem sua doutrina.  "
+  title: Luz II
+  message: "Organizando-se de forma militarizada, logo os l\xEDderes da f\xE9 da luz
+    passam a julgar todos os costumes e culturas diferentes como hereges. Levam como
+    miss\xE3o divina erradicar aqueles que n\xE3o seguem sua doutrina."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: e05a8b72a56d5c9469dafd1e8ec6e7ec, type: 2}
   interactions:
   - nodes:
     - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
-    message: "Formaram ex\xE9rcitos, seus l\xEDderes julgar\xE3o a todos hereges,
-      sua vontade deve se fazer acima dos outros, sua miss\xE3o divina \xE9 erradicar
-      todos que n\xE3o seguem sua doutrina. Tudo j\xE1 estava descrito nas palavras
-      de nossos profetas."
+    message: "Formaram ex\xE9rcitos, os l\xEDderes julgar\xE3o a todos hereges, sua
+      vontade deve prevalecer, sua miss\xE3o divina \xE9 erradicar todos que n\xE3o
+      seguem sua doutrina. Tudo j\xE1 estava descrito nas palavras de nossos profetas."
   - nodes:
     - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
     message: "Acham que por formar ex\xE9rcitos e dizer que somos hereges v\xE3o conseguir

@@ -12,12 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 335f59ddaeba1d04b96a7c0c81b3dc24, type: 3}
   m_Name: TentaclesEndRule
   m_EditorClassIdentifier: 
-  triggeredMessage: "O deus tent\xE1culo \xE9 finalmente invocado, tent\xE1culos gigantes
-    aparecem pelo espa\xE7o, abra\xE7am o planeta e o consome para sempre. o jogando
-    para o vazio do est\xF4mago do deus tent\xE1culo. "
-  untriggeredMessage: " Um ritual para invocar o deus Tent\xE1culo foi iniciado, mas
-    foi impedido a tempo pelos seguidores da luz e do Or\xE1culo. Os cultistas foram
-    todos perseguidos e mortos pelos representantes das outras f\xE9s. "
+  triggeredMessage: "O deus tent\xE1culo \xE9 finalmente invocado. Tent\xE1culos gigantes
+    aparecem pelo espa\xE7o, abra\xE7am o planeta e o consome para sempre no vazio
+    do est\xF4mago do deus tent\xE1culo."
+  untriggeredMessage: "Um ritual para invocar o deus Tent\xE1culo foi iniciado, mas
+    foi impedido a tempo pelos seguidores das outras f\xE9s. Os cultistas foram todos
+    perseguidos e for\xE7ados a se esconder. "
   activeNodes: []
   unactiveNodes:
   - {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}

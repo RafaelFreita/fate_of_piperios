@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Sun1
   m_EditorClassIdentifier: 
-  title: Sun 1
+  title: Luz I
   message: "A f\xE9 na luz verdadeira passa a guiar as pessoas pregando ideais de
-    justi\xE7a e destrui\xE7\xE3o do mal, rapidamente a comunidade da luz se torna
+    justi\xE7a e destrui\xE7\xE3o do mal. Rapidamente a comunidade da luz se torna
     uma for\xE7a a ser respeitada e temida."
   isActive: 0
   isFinal: 0
@@ -23,13 +23,13 @@ MonoBehaviour:
   - nodes:
     - {fileID: 11400000, guid: d500d0c792aef7b44a78cbeacca898aa, type: 2}
     message: "O grande or\xE1culo nos mandou vis\xF5es sobre os representantes de
-      uma justi\xE7a e ideais cegos. Que causam tanto esplendor quanto temor. A f\xE9
+      uma justi\xE7a e ideais cegos que causam tanto esplendor quanto temor. A f\xE9
       da Luz finalmente apareceu."
   - nodes:
     - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
-    message: "Nossos opostos apareceram, dizem que representam justi\xE7a e est\xE3o
-      aqui para destruir o mal. Os sacrif\xEDcios em nome do grande Tent\xE1culo n\xE3o
-      ser\xE3o tolerados? Quem essa f\xE9 da Luz pensa que \xE9?"
+    message: "Nossos opostos apareceram. Dizem que representam justi\xE7a e est\xE3o
+      aqui para destruir o mal. \u201COs sacrif\xEDcios em nome do grande Tent\xE1culo
+      n\xE3o ser\xE3o tolerados.\u201D Quem essa f\xE9 da Luz pensa que \xE9? "
   endRule: {fileID: 11400000, guid: 5c6f8a3b1804fb542bc86bf660c5b749, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: e7c32dc184acdac488110b94102dde42,
     type: 3}

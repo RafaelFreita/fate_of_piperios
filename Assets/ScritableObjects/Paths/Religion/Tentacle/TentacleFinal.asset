@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: TentacleFinal
   m_EditorClassIdentifier: 
-  title: Tentacle 3
+  title: "Tent\xE1culo III"
   message: "O deus tent\xE1culo \xE9 finalmente invocado, tent\xE1culos gigantes aparecem
     pelo espa\xE7o, abra\xE7am o planeta e o consome para sempre. o jogando para o
     vazio do est\xF4mago do deus tent\xE1culo."

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Physics2
   m_EditorClassIdentifier: 
-  title: Physics 2
+  title: "F\xEDsica II"
   message: "Os estudiosos come\xE7am a colocar suas teorias em pr\xE1tica, mas diversos
     acidentes envolvendo seus experimentos s\xE3o notados pelo mundo causando mortes
     e destrui\xE7\xE3o, por\xE9m a sede pelo conhecimento e resultados parece n\xE3o

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Space1
   m_EditorClassIdentifier: 
-  title: Space 1
+  title: "Espa\xE7o I"
   message: "O espa\xE7o \xE9 mais um campo a ser estudado e vislumbrando pelos eruditos
     que buscam a verdade nas estrelas, entretanto alguns passam a acreditar que n\xE3o
     estamos sozinhos no universo e talvez seja poss\xEDvel encontrar outros nesse

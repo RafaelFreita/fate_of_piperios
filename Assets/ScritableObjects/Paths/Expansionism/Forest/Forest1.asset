@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Forest1
   m_EditorClassIdentifier: 
-  title: Forest 1
+  title: Floresta I
   message: "Pelo aumento da popula\xE7\xE3o as pessoas come\xE7am a se expandir para
     as florestas e coletar seus recursos cada vez mais descontroladamente. Visando
     sempre o avan\xE7o da civiliza\xE7\xE3o acima de qualquer coisa. "
-  isActive: 0
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: efe613edcd2be4e49bc41b8126f08f6a, type: 2}
   interactions:

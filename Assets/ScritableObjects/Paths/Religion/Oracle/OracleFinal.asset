@@ -12,16 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: OracleFinal
   m_EditorClassIdentifier: 
-  title: Oracle 3
-  message: "Os Profetas predizem o fim do mundo por uma enorme cat\xE1strofe e a popula\xE7\xE3o
-    seguindo suas palavras se entregam para o Or\xE1culo antes disso acontecer, pela
-    grande influ\xEAncia deles pelo mundo a sociedade entra em colapso e os seguidores
-    dos profetas levam todos consigo destruindo completamente a vida humana no planeta
-    e mesmo depois de centenas de anos o desastre nunca aconteceu."
+  title: "Or\xE1culo III"
+  message: 
   isActive: 0
   isFinal: 1
   nextNode: {fileID: 0}
   interactions: []
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 9944886c5b5795546b4adb18aa058fbc, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 1ca59f6c00dcb6640b47ad48f7da26e5,
     type: 3}

@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: AllOneEndRule
   m_EditorClassIdentifier: 
   triggeredMessage: "Uma ideia de utopia come\xE7a a se formar onde todos acreditam
-    que tudo possa conviver em conjunto, por\xE9m essa realidade n\xE3o existe e as
-    pessoas acabam vivendo umas contra as outras desacreditando ideias alheias que
-    faz o caos se instaurar no mundo que acaba por terminar ele."
+    que tudo possa conviver em conjunto. Por\xE9m, essa realidade n\xE3o existe e
+    as pessoas acabam virando umas contra as outras, desacreditando ideias alheias
+    que faz o caos se instaurar no mundo, o que acaba por terminar com ele."
   untriggeredMessage: 
   activeNodes:
   - {fileID: 11400000, guid: 832d261a9dc456d48bfefd7e7879e6f8, type: 2}

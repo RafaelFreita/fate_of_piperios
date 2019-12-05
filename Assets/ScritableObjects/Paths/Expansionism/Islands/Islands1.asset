@@ -12,13 +12,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Islands1
   m_EditorClassIdentifier: 
-  title: Islands 1
+  title: Ilhas I
   message: "Os povos do mundo passaram a explorar o mar e as ilhas do seu planeta
     e assim diversas esp\xE9cies marinhas come\xE7aram a ser extintas ou amea\xE7adas
     de extin\xE7\xE3o. Povos nativos de ilhas que nunca tiveram contato com pessoas
     de fora passaram a morrer de doen\xE7as que os colonizadores acabaram trazendo
     a suas praias. "
-  isActive: 0
+  isActive: 1
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 4feea4b8a1133884d8f85f2c51eed5c7, type: 2}
   interactions:

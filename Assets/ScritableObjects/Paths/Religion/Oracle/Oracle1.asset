@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Oracle1
   m_EditorClassIdentifier: 
-  title: Oracle 1
-  message: "Profetizar o futuro por meio da interpreta\xE7\xE3o de enigmas e charadas.
-    os Profetas surgem no mundo representando essa entidade chamada de o Or\xE1culo
-    eles se espalham pelo mundo e come\xE7am a guiar seu povo atrav\xE9s de suas profecias."
+  title: "Or\xE1culo I"
+  message: "Profetizando o futuro por meio da interpreta\xE7\xE3o de enigmas e charadas,
+    os Profetas surgem no mundo representando a entidade conhecida como o Or\xE1culo.
+    Eles se espalham pelo mundo e come\xE7am a guiar seu povo atrav\xE9s de suas profecias."
   isActive: 0
   isFinal: 0
   nextNode: {fileID: 11400000, guid: 96c57eae31dcc43499a6eca2b1df81e5, type: 2}
@@ -24,13 +24,13 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 82c6db2ccbf89fd4ab24abfd6389d00a, type: 2}
     message: "Interpretar charadas e enigmas para dizer o futuro? Que tipo de heresia
       \xE9 essa? Seguidores desse tal chamado de o Or\xE1culo se espalham pelo mundo
-      querendo guiar o povo com suas profecias hereges."
+      querendo guiar o povo com suas profecias hereges. "
   - nodes:
     - {fileID: 11400000, guid: c6d8f9af77ebb1a41b12809f83d04551, type: 2}
     message: "Enigmas e charadas de pedras esquecidas pelo homem n\xE3o dizem nada
       sobre nosso futuro como os representantes desse Or\xE1culo querem espalhar.
-      O grande Tent\xE1culo e nosso \xFAnico senhor e as suas palavras s\xE3o as \xFAnicas
-      que devemos ouvir."
+      O grande Tent\xE1culo \xE9 nosso \xFAnico senhor e as suas palavras s\xE3o as
+      \xFAnicas que devemos ouvir."
   endRule: {fileID: 11400000, guid: 5c6f8a3b1804fb542bc86bf660c5b749, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 1ca59f6c00dcb6640b47ad48f7da26e5,
     type: 3}

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Chemistry2
   m_EditorClassIdentifier: 
-  title: Chemistry 2
+  title: "Qu\xEDmica II"
   message: "At\xE9 que os primeiros acidentes acontecem e algumas pessoas que serviram
     de cobaias t\xEAm suas vidas mudadas ao contra\xEDrem doen\xE7as ou verem seus
     parentes morrerem por exposi\xE7\xE3o a compostos perigosos e vol\xE1teis."
@@ -24,7 +24,7 @@ MonoBehaviour:
     - {fileID: 11400000, guid: 5a1f6af9d2015c84380f7163a29d710a, type: 2}
     message: "Pessoas servindo de cobaias e morrendo, doen\xE7as se espalhando por
       exposi\xE7\xE3o a compostos perigosos. Se esses qu\xEDmicos se esfor\xE7assem
-      para estudar a nossa teoria sobre a f\xEDsica nada disso teria acontecido. "
+      para estudar a nossa teoria sobre a f\xEDsica nada disso teria acontecido."
   - nodes:
     - {fileID: 11400000, guid: 0b2fd141e17a0464c906c0c463101160, type: 2}
     message: "Avisamos que as verdades se encontram em estudar os corpos celestes.

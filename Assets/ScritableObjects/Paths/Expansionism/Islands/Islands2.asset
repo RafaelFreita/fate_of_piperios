@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e58d9b612aac2cd4e857da21bf2c1b7f, type: 3}
   m_Name: Islands2
   m_EditorClassIdentifier: 
-  title: Islands 2
+  title: Ilhas II
   message: "Em benef\xEDcio do avan\xE7o a explora\xE7\xE3o n\xE3o pode ser parada
     recursos no mar s\xE3o descobertos e explorados at\xE9 a n\xE3o restar mais nada,
     res\xEDduos resultantes s\xE3o jogados nas \xE1guas e nas ilhas que j\xE1 n\xE3o
@@ -31,6 +31,6 @@ MonoBehaviour:
     message: "Agora que n\xE3o restou nada a\xED embaixo acha que vamos aceit\xE1
       los aqui em cima? Est\xE3o muito enganados. Fiquem com suas ilhas e mares cheios
       de lixo. "
-  endRule: {fileID: 0}
+  endRule: {fileID: 11400000, guid: 9ca7c51523918044d8e449b959837206, type: 2}
   iconPrefab: {fileID: 4746363717683007510, guid: 46db3fa0d404afb47b6c10829531ad9c,
     type: 3}
